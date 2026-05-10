@@ -98,7 +98,7 @@ To Deploy :
 |Total                      	                            |-----                                                          |0          |$25.82            |-----      	|-----   |
 
 
-![The zine for Fallout :D](ValkDeckZinePNG.png)
+![The zine for Fallout :D!](ValkDeckZinePNG.png)
 
 (ps. this repo will be updated to v1.1 after i build this board irl, stay tuned! :3)
 
