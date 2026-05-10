@@ -12,7 +12,7 @@ Welcome to *ValkDeck.*
 
 It's a 9-key, fully hotswappable cyberdeck module powered by a Raspberry Pi Pico. It features per=key WS2812B underglow, a rotary encoder for media control, and a 0.91" I2C OLED display that feeds back live system status so I can actually know what my macros are doing.
 
-![ValkDeck!](<img width="502" height="607" alt="Image" src="https://github.com/user-attachments/assets/98e20a07-9dd4-4857-a16e-05be81255f04" />)
+<img width="502" height="607" alt="Image" src="https://github.com/user-attachments/assets/98e20a07-9dd4-4857-a16e-05be81255f04" />
 
 # FEATURE PIVOT
 
