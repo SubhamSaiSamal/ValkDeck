@@ -24,9 +24,10 @@ Physical reality remains undefeated. Instead of spending the next 6 hours rearra
 
 # THE PCB
 
-![PCB in KiCad](PCB.png)
-![PCB Front](PCB_FRONT.png)
-![PCB Back](PCB_BACK.png)
+<img width="923" height="868" alt="PCB" src="https://github.com/user-attachments/assets/3fa9f0f6-4451-46d6-a47d-4872fe75160b" />
+<img width="811" height="750" alt="PCB_FRONT" src="https://github.com/user-attachments/assets/911cd5c0-5abf-4e6a-83f2-d5fc163f401c" />
+<img width="794" height="752" alt="PCB_BACK" src="https://github.com/user-attachments/assets/9cb4787a-6c59-4305-be24-11853bf91bdb" />
+
 
 I have been familiar with breadboards and scary jumper wire connections for quite a while. Instead of a terrifying 3D web of hand-soldered jumper wires, ValkDeck runs on a custom-routed, two layer FR-4 board.
 
@@ -59,9 +60,9 @@ If you're trying to understand the exact tracing or trying to make your very own
 | NeoPixels         | GP15                                         | Single data line for all 9 LEDs | 
 | Buzzer            | GP19                                         | PWM Audio (retro pokemon)       |
 
-![Full Schematic](Schematic.png)
-![9-WS2812Bs](9-WS2812B.png)
-![3x3 Matrix](3x3_Matrix.png)
+<img width="1136" height="881" alt="Image" src="https://github.com/user-attachments/assets/5e319a95-f623-45e8-b49d-3b6bdb5a66f6" />
+<img width="1477" height="348" alt="9-WS2812B" src="https://github.com/user-attachments/assets/e2e4130b-675b-4a79-b25f-7fc8776d492c" />
+<img width="502" height="607" alt="3x3_Matrix" src="https://github.com/user-attachments/assets/f0cbeb11-25fb-4c35-9031-b5043a189135" />
 
 # RUNNING THE FIRMWARE
 
@@ -98,7 +99,7 @@ To Deploy :
 |Total                      	                            |-----                                                          |0          |$25.82            |-----      	|-----   |
 
 
-![The zine for Fallout :D!](ValkDeckZinePNG.png)
+<img width="2160" height="3320" alt="Image" src="https://github.com/user-attachments/assets/9a9a2cf4-2d71-4160-895e-7c7dda2da82f" />
 
 (ps. this repo will be updated to v1.1 after i build this board irl, stay tuned! :3)
 
