@@ -1,0 +1,14 @@
+ITEM,DESCRIPTION,QUANTITY,UNIT PRICE ($),UNIT PRICE (?),TOTAL PRICE ($),TOTAL PRICE (?),URL,RUNNING TOTAL ($ with tax)
+Raspberry Pi PICO,Microcontroller,1,3.43,325,3.43,325,https://www.silverlineelectronics.in/products/raspberry-pi-pico?_pos=3&_sid=a84e46afc&_ss=r#,4.05
+0.91 Inch I2C OLED,OLED Display,1,1.65,156,1.65,156,https://roboticsdna.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/,1.94
+Cherry MX switch,Brown RBG Switch (Pack of 10),1,3.7,350,3.7,350,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/?attribute_pa_cherry-mx=brown-rgb,3.7
+Kalih Socket,Hot-Swap socket (Pack of 10),1,0.84,80,0.84,80,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/,0.84
+Deep Purple Keycaps,Keycaps (Pack of 5),2,1,95,2,190,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/?attribute_pa_variations=deep-purple,2
+Rotary Encoder,M274 Rotary Encoder Switch,1,0.46,44,0.46,44,https://robu.in/product/m274-360-degree-rotary-encoder-module-brick-sensor,0.46
+rotary encoder knob,,,,,,,,
+100nF capacitor,100nF ceramic capacitor (Pack of 25),1,0.13,12.38,0.13,12.38,https://roboticsdna.in/product/0-1-uf-ceramic-capacitor-10-pieces/,0.15
+1N4148 Diode,IN4148 DIODE (Pack of 10),2,0.21,20,0.42,40,https://roboticsdna.in/product/diode-1n4148/,0.5
+WS2812B RGB,WS2812B 5050RGB (Pack of 10),1,2.43,230,2.43,230,https://robu.in/product/ws2812b-rgb-addressable-led-module,2.43
+AC1255 Buzzer,Buzzer,1,0.074,7,0.074,7,https://robu.in/product/ac1255-cldz-piezoelectric-passive-buzzer-1-25v12x5-5mm,
+2.54mm male header,Male header for PICO,2,0.275,26,0.55,52,https://robu.in/product/ds1029-01-1x40p8bva1-b-connfly-1x40-pin-2-54mm-pin-header-single-row-stack-v-t-type,0.55
+,,,,,15.684,1486.38,,16.62
