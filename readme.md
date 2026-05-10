@@ -12,7 +12,8 @@ Welcome to *ValkDeck.*
 
 It's a 9-key, fully hotswappable cyberdeck module powered by a Raspberry Pi Pico. It features per=key WS2812B underglow, a rotary encoder for media control, and a 0.91" I2C OLED display that feeds back live system status so I can actually know what my macros are doing.
 
-<img width="502" height="607" alt="Image" src="https://github.com/user-attachments/assets/98e20a07-9dd4-4857-a16e-05be81255f04" />
+<img width="1920" height="1080" alt="ValkDeckFull" src="https://github.com/user-attachments/assets/13e84434-ed1b-4a2b-8042-e81d3465771c" />
+
 
 # FEATURE PIVOT
 
@@ -25,7 +26,9 @@ Physical reality remains undefeated. Instead of spending the next 6 hours rearra
 # THE PCB
 
 <img width="923" height="868" alt="PCB" src="https://github.com/user-attachments/assets/3fa9f0f6-4451-46d6-a47d-4872fe75160b" />
+
 <img width="811" height="750" alt="PCB_FRONT" src="https://github.com/user-attachments/assets/911cd5c0-5abf-4e6a-83f2-d5fc163f401c" />
+
 <img width="794" height="752" alt="PCB_BACK" src="https://github.com/user-attachments/assets/9cb4787a-6c59-4305-be24-11853bf91bdb" />
 
 
@@ -61,7 +64,9 @@ If you're trying to understand the exact tracing or trying to make your very own
 | Buzzer            | GP19                                         | PWM Audio (retro pokemon)       |
 
 <img width="1136" height="881" alt="Image" src="https://github.com/user-attachments/assets/5e319a95-f623-45e8-b49d-3b6bdb5a66f6" />
+
 <img width="1477" height="348" alt="9-WS2812B" src="https://github.com/user-attachments/assets/e2e4130b-675b-4a79-b25f-7fc8776d492c" />
+
 <img width="502" height="607" alt="3x3_Matrix" src="https://github.com/user-attachments/assets/f0cbeb11-25fb-4c35-9031-b5043a189135" />
 
 # RUNNING THE FIRMWARE
