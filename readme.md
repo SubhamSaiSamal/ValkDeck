@@ -23,6 +23,8 @@ Originally, that 12mm hole was meant for a massive, avionics-grade MTS-101 toggl
 
 Physical reality remains undefeated. Instead of spending the next 6 hours rearranging the whole top-case, I pivoted. I covered it with a sleek metal plug for a premium industrial look. It's not a bug; it's an aesthetic hardware change.
 
+[OnshapeCase](https://cad.onshape.com/documents/f17dd9f4e6cb3dbe968d54ad/w/35238b8d1c489f2cc410f163/e/0b39d0bd7ba726a80e99828b)
+
 # THE PCB
 
 <img width="923" height="868" alt="PCB" src="https://github.com/user-attachments/assets/3fa9f0f6-4451-46d6-a47d-4872fe75160b" />
